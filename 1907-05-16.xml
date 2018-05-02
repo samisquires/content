@@ -153,14 +153,14 @@
                             through rates of DEUTSCHE VERKEHR (traffic).</p>
                         <p>EXPECTED AT ALEXANDRIA.</p>
                         <p><name>S.S. Lesbos</name>
-                            <date when="1905-07-20">July 20</date> from
+                            <date when="1907-07-20">May 20</date> from
                                 <placeName>Antwerp</placeName>.</p>
                         <p><name>S.S. Androos</name>
-                            <date when="1905-07-20">July 20</date> from
+                            <date when="1907-07-20">May 20</date> from
                                 <placeName>Hamburg</placeName> bound for
                                 <placeName>Beyrout</placeName>.</p>
                         <p><name>S.S. Lemnos</name>
-                            <date when="1905-07-31">July 31</date> from
+                            <date when="1907-07-31">May 31</date> from
                                 <placeName>Hamburg</placeName> bound for
                                 <placeName>Beyrout</placeName>.</p>
                         <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria,
@@ -211,7 +211,7 @@
                                 when="1907-05-14">Tuesday, May 14</date>, to be followed by
                                 <name>S.S. Mene</name>s.</p>
                         <p><name>S.S Tabor</name> for <placeName>Havre</placeName> via
-                                <placeName>Malta</placeName> to sail about <date when="1905-07-15"
+                                <placeName>Malta</placeName> to sail about <date when="1907-07-15"
                                 >Saturday l5th inst</date>.</p>
                         <p>Through freight rates on cotton, etc., to Lancashire inland towns,
                             Boston, New York and other U.S.A. towns, obtained on application. Cargo
@@ -677,27 +677,27 @@
                             <row>
                                 <cell><name>Zieten</name></cell>
                                 <cell><measure quantity="9043" unit="ton">9043</measure> Tons</cell>
-                                <cell>about <date when="1905-07-14">14 July</date></cell>
+                                <cell>about <date when="1907-05-14">14 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Gera</name></cell>
                                 <cell><measure quantity="5005" unit="ton">5005</measure> Tons</cell>
-                                <cell>about <date when="1905-07-31">31 July</date></cell>
+                                <cell>about <date when="1907-05-31">31 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Sachsen</name></cell>
                                 <cell><measure quantity="5026" unit="ton">5026</measure> Tons</cell>
-                                <cell>about <date when="1905-07-31">31 July</date></cell>
+                                <cell>about <date when="1907-05-31">31 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Gneisenau</name></cell>
                                 <cell><measure quantity="8881" unit="ton">8881</measure> Tons</cell>
-                                <cell>about <date when="1905-08-14">14 August</date></cell>
+                                <cell>about <date when="1907-05-14">14 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Pr. Regt. Luitpold</name></cell>
                                 <cell><measure quantity="6288" unit="ton">6288</measure> Tons</cell>
-                                <cell>about <date when="1905-08-28">28 August</date></cell>
+                                <cell>about <date when="1907-05-28">28 May</date></cell>
                             </row>
                             <row>
                                 <cell cols="3">OUTWARD: for CHINA and JAPAN via SUEZ, ADEN, COLOMBO,
@@ -706,17 +706,17 @@
                             <row>
                                 <cell><name>Prinz E. Friedrich</name></cell>
                                 <cell><measure unit="ton" quantity="8965">8965</measure> Tons</cell>
-                                <cell>about <date when="1905-07-10">10 July</date></cell>
+                                <cell>about <date when="1907-06-10">10 June</date></cell>
                             </row>
                             <row>
                                 <cell><name>Preussen</name></cell>
                                 <cell><measure unit="ton" quantity="5295">5295</measure> Tons</cell>
-                                <cell>about <date when="1905-07-24">24 July</date></cell>
+                                <cell>about <date when="1907-05-24">24 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Roon</name></cell>
                                 <cell><measure unit="ton" quantity="8022">8022</measure> Tons</cell>
-                                <cell>about <date when="1905-08-07">7 August</date></cell>
+                                <cell>about <date when="1907-05-07">7 May</date></cell>
                             </row>
                             <row>
                                 <cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
@@ -724,18 +724,18 @@
                             <row>
                                 <cell><name>Seydlitz</name></cell>
                                 <cell><measure unit="ton" quantity="7943">7943</measure> Tons</cell>
-                                <cell>about <date when="1905-07-30">30 July</date></cell>
+                                <cell>about <date when="1907-05-30">30 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Zieten</name></cell>
                                 <cell><measure unit="ton" quantity="8043">8043</measure> Tons</cell>
-                                <cell>about <date when="1905-08-27">27 August</date></cell>
+                                <cell>about <date when="1907-05-27">27 May</date></cell>
                             </row>
                             <row>
                                 <cell><name>Barbarossa</name></cell>
                                 <cell><measure unit="ton" quantity="10915">10915</measure>
                                     Tons</cell>
-                                <cell>about <date when="1905-09-24">24 Sept</date>.</cell>
+                                <cell>about <date when="1907-05-24">24 May</date>.</cell>
                             </row>
                         </table>
                         <p>FOR FURTHER PARTICULARS APPLY TO THE AGENTS OF THE</p>
@@ -768,7 +768,7 @@
                                 <date when="1907-03-04">March 4</date>, <date when="1907-03-18"
                                 >18</date> ; <date when="1907-04-01">April 1</date>. <date
                                 when="1907-04-15">15</date>, <date when="1904-04-29">29</date> ;
-                                <date when="1907-05-13">May 13</date>, <date when="1905-05-27"
+                                <date when="1907-05-13">May 13</date>, <date when="1907-05-27"
                                 >27</date> ; <date when="1907-06-10">June 10</date>, <date
                                 when="1907-06-24">24</date>.</p>
                         <p><hi rend="bold">Syrian-Cyprus Line.</hi> Beyrout, Limassol, Larnaca,
@@ -776,7 +776,7 @@
                                 when="1907-03-12">March 12</date>, <date when="1907-03-26">26</date>
                             ; <date when="1907-04-09">April 9</date>. <date when="1907-04-23"
                                 >23</date> ; <date when="1907-05-07">May 7</date>, <date
-                                when="1905-05-21">21</date> ; <date when="1907-06-04">June 4</date>,
+                                when="1907-05-21">21</date> ; <date when="1907-06-04">June 4</date>,
                                 <date when="1907-06-18">18</date>.</p>
                         <p><hi rend="bold">Far East Lines.</hi> Departures from Port Said: To Suez,
                             Aden, Bombay, Colombo, Penang, Singapore, Hong-Kong, Shanghai, <hi
@@ -2498,8 +2498,8 @@
                     <div type="item" xml:id="deg-el-etcl1">
                         <head>EASTERN TELEGRAPH CO. LTD.</head>
                         <p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England
-                            to Alexandria on <date when="1905-07-11">Tuesday, 11th July,
-                            1905</date>. </p>
+                            to Alexandria on <date when="1907-05-11">Tuesday, 11th May,
+                            1907</date>. </p>
                         <p>OUTWARDS.</p>
                         <p>Between the hours of 10 a.m. and 6 p.m. (Cairo time)</p>
                         <table rows="6" cols="3" xml:id="deg-ta-etcl1">
@@ -2552,7 +2552,7 @@
                         <div type="item" xml:lang="fr" feature="shippingMovements">
                             <head>MOUVEMENT MARITIME DU PORT D’ALEXANDRIE</head>
                             <p>ARRIVÉES</p>
-                            <p><date when="1905-07-12">12 juillet</date></p>
+                            <p><date when="1907-05-12">12 May</date></p>
                             <p><placeName>Odessa</placeName> et <placeName>Sude</placeName>; 1 j.,
                                 vap. russe Tzaritza, cap. <persName>Roller</persName>, ton. <measure
                                     unit="ton">1,727</measure>, à la Cie Russe.</p>
@@ -2560,7 +2560,7 @@
                                 j., 1/2, vap. ital. Jeanne Marcelle, cap.
                                     <persName>Passaton</persName>, ton. <measure unit="ton"
                                     >1,674</measure>, à Luxardo.</p>
-                            <p><date when="1905-07-13">13 juillet</date></p>
+                            <p><date when="1907-05-13">13 May</date></p>
                             <p><placeName>Londres</placeName> et <placeName>Tripoli</placeName>; 4
                                 j., 3/4, vap. angl. Kaffir Prince, cap. <persName>Wright</persName>,
                                 ton. <measure unit="ton">1402</measure>, à Grace &amp; Co.</p>
@@ -2574,7 +2574,7 @@
                                 16 h., vapour français Sénégal, cap. Vincenti, ton. <measure
                                     unit="ton">2,235</measure>, aux Messageries Maritimes.</p>
                             <p>DÉPARTS</p>
-                            <p><date when="1905-07-12">12 juillet</date></p>
+                            <p><date when="1907-05-12">12 May</date></p>
                             <p><placeName>Pirée</placeName> et <placeName>Constantinople</placeName>
                                 : vap. ang. Ismailieh, cap. <persName>Gatteschi</persName>.</p>
                             <p><placeName>Hull</placeName>; vap. ang. Lorenzo, cap.
@@ -2792,10 +2792,10 @@
                         </div>
                         <div type="section" xml:lang="fr" xml:id="deg-el-mmeb01">
                             <head>MARCHE DE MINET-EL-BASSAL</head>
-                            <dateline><date when="1905-07-12">12 juillet 1905</date>.—(11h.55
+                            <dateline><date when="1907-07-12">12 juillet 1905</date>.—(11h.55
                                 a.m.)</dateline>
                             <p><hi rend="italic">Cotons</hi> —Clôture du marché du <date
-                                    when="1905-07-11">11 juillet</date>: Ferme et en hausse de 1/8. </p>
+                                    when="1907-05-11">11 May</date>: Ferme et en hausse de 1/8. </p>
                             <table cols="6" xml:id="deg-ta-mmeb01">
                                 <row role="label">
                                     <cell cols="6">BEURRES</cell>
@@ -3069,10 +3069,10 @@
                             </table>
                             <table rows="4" cols="3" xml:id="deg-ta-mmeb03">
                                 <row role="label">
-                                    <cell cols="3">Exportation du <date when="1905-07-11">11
-                                            juil.</date></cell>
-                                    <cell cols="2">depuis le <date when="1905-07-07">7
-                                        juil.</date></cell>
+                                    <cell cols="3">Exportation du <date when="1907-05-11">11
+                                            May.</date></cell>
+                                    <cell cols="2">depuis le <date when="1907-05-07">7
+                                        May.</date></cell>
                                 </row>
                                 <row>
                                     <cell>Coton</cell>
@@ -3100,8 +3100,8 @@
                                 <head>Exportations probables de la semaine:</head>
                                 <row role="label">
                                     <cell/>
-                                    <cell cols="2">1905</cell>
-                                    <cell cols="2">1904</cell>
+                                    <cell cols="2">1907</cell>
+                                    <cell cols="2">1907</cell>
                                 </row>
                                 <row>
                                     <cell>Coton</cell>
@@ -3208,8 +3208,8 @@
                             </table>
                             <div type="item">
                                 <head>ARRIVAGES</head>
-                                <dateline>du <date when="1905-07-12">mercredi 12 juillet
-                                    1905</date></dateline>
+                                <dateline>du <date when="1907-05-12">mercredi 12 May
+                                    1907</date></dateline>
                                 <p>Documents de l’ “Alexandria General Produce Association.”</p>
                                 <table rows="9" cols="4" xml:id="deg-ta-mmeb07">
                                     <row role="label">
@@ -3431,8 +3431,8 @@
                         </div>
                         <div type="item" xml:lang="fr" xml:id="deg-el-extr01">
                             <head>Exterieur</head>
-                            <p>Dépêches particulières du <date when="1905-07-11">11 juillet
-                                    1905</date></p>
+                            <p>Dépêches particulières du <date when="1907-05-11">11 May
+                                    1907</date></p>
                             <p>PRODUITS EGYPTIENS</p>
                             <p>LIVERPOOL</p>
                             <p><hi rend="italic">Coton: Etat du Marché</hi>.—Soutenu</p>
@@ -3544,11 +3544,11 @@
                                     <cell><measure unit="pt">—</measure></cell>
                                 </row>
                             </table>
-                            <p>Bourse Khédiviale, le <date when="1905-07-07">7 juillet
-                                1905</date>.</p>
+                            <p>Bourse Khédiviale, le <date when="1907-05-07">7 My
+                                1907</date>.</p>
                             <p>N.B.—Dans cette liquidation sont comprises les opérations jusqu'à 1h.
                                 p.m. de ce jour.</p>
-                            <p>Paiement <date when="1905-07-10">le lundi 10 courant</date>.</p>
+                            <p>Paiement <date when="1907-05-10">le lundi 10 courant</date>.</p>
                         </div>
                         <div type="item" xml:lang="fr" xml:id="deg-el-dehe1">
                             <head>DERNIERE HEURE</head>
@@ -4164,7 +4164,7 @@
                                     <cell cols="2" rows="1">Up Stream.</cell>
                                 </row>
                                 <row role="label">
-                                    <cell>July.</cell>
+                                    <cell>May.</cell>
                                     <cell>1905</cell>
                                     <cell>1906</cell>
                                     <cell>1905</cell>
@@ -4189,7 +4189,7 @@
                                     <cell>1906</cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-01">1</date></cell>
+                                    <cell><date when="1907-05-01">1</date></cell>
                                     <cell><measure>1.32</measure></cell>
                                     <cell><measure>3.84</measure></cell>
                                     <cell><measure>0.56</measure></cell>
@@ -4214,7 +4214,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-02">2</date></cell>
+                                    <cell><date when="1907-05-02">2</date></cell>
                                     <cell><measure>1.37</measure></cell>
                                     <cell><measure>4.05</measure></cell>
                                     <cell><measure>0.59</measure></cell>
@@ -4239,7 +4239,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-03">3</date></cell>
+                                    <cell><date when="1907-05-03">3</date></cell>
                                     <cell><measure>1.29</measure></cell>
                                     <cell><measure>3.92</measure></cell>
                                     <cell><measure>0.62</measure></cell>
@@ -4264,7 +4264,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-04">4</date></cell>
+                                    <cell><date when="1907-05-04">4</date></cell>
                                     <cell><measure>1.29</measure></cell>
                                     <cell><measure>3.99</measure></cell>
                                     <cell><measure>0.64</measure></cell>
@@ -4289,7 +4289,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-05">5</date></cell>
+                                    <cell><date when="1907-05-05">5</date></cell>
                                     <cell><measure>1.22</measure></cell>
                                     <cell><measure>3.21</measure></cell>
                                     <cell><measure>0.68</measure></cell>
@@ -4314,7 +4314,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-06">6</date></cell>
+                                    <cell><date when="1907-05-06">6</date></cell>
                                     <cell><measure>1.25</measure></cell>
                                     <cell><measure>3.28</measure></cell>
                                     <cell><measure>0.71</measure></cell>
@@ -4339,7 +4339,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-07">7</date></cell>
+                                    <cell><date when="1907-05-07">7</date></cell>
                                     <cell><measure>1.21</measure></cell>
                                     <cell><measure>3.50</measure></cell>
                                     <cell><measure>0.75</measure></cell>
@@ -4364,7 +4364,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-08">8</date></cell>
+                                    <cell><date when="1907-07-08">8</date></cell>
                                     <cell><measure>1.27</measure></cell>
                                     <cell><measure>3.88</measure></cell>
                                     <cell><measure>0.79</measure></cell>
@@ -4389,7 +4389,7 @@
                                     <cell><measure>15.50</measure></cell>
                                 </row>
                                 <row role="data">
-                                    <cell><date when="1905-07-09">9</date></cell>
+                                    <cell><date when="1907-07-09">9</date></cell>
                                     <cell><measure>–</measure></cell>
                                     <cell><measure>3.80</measure></cell>
                                     <cell><measure>–</measure></cell>
@@ -5224,7 +5224,7 @@
                                     <cell><measure unit="fcs">30.—</measure></cell>
                                 </row>
                             </table>
-                            <dateline>Alexandrie, le 13 juillet 1905</dateline>
+                            <dateline>Alexandrie, le 13 May 1907</dateline>
                         </div>
                         <div type="item" xml:id="deg-el-reut01">
                             <head>REUTER'S TELEGRAMS</head>
@@ -5232,7 +5232,7 @@
                                 <head>CLOSING REPORTS</head>
                                 <row role="label">
                                     <cell cols="4"><placeName>Liverpool</placeName>, <time
-                                            when="1905-07-12">July 12, 12.55 p.m.</time></cell>
+                                            when="1907-05-12">May 12, 12.55 p.m.</time></cell>
                                 </row>
                                 <row>
                                     <cell>Sales of the day</cell>
@@ -5372,7 +5372,7 @@
                                 </row>
                                 <row role="label">
                                     <cell cols="4"><placeName>Liverpool</placeName>, <date
-                                            when="1905-07-12">July 12</date>.</cell>
+                                            when="1907-05-12">May 12</date>.</cell>
                                 </row>
                                 <row>
                                     <cell>American futures </cell>
@@ -5511,7 +5511,7 @@
                                 </row>
                                 <row role="label">
                                     <cell cols="4"><placeName>Paris</placeName>, <date
-                                            when="1905-07-12">July 12</date>.</cell>
+                                            when="1907-05-12">May 12</date>.</cell>
                                 </row>
                                 <row>
                                     <cell cols="3">Lots Turcs</cell>
@@ -5549,8 +5549,8 @@
                         </div>
                         <div type="item" xml:lang="fr" xml:id="deg-el-teha01">
                             <head>TELEGRAMME HAVAS</head>
-                            <dateline>BOURSE du <date when="1905-07-11">11 juillet
-                                1905</date></dateline>
+                            <dateline>BOURSE du <date when="1907-05-11">11 May
+                                1907</date></dateline>
                             <p>COURS DES VALEURS A TERMS, CLOTURE</p>
                             <table cols="3" xml:id="deg-ta-teha01">
                                 <row role="label">
@@ -5651,7 +5651,7 @@
                         </div>
                         <div type="item" xml:lang="fr" xml:id="deg-el-cotn01">
                             <head>COTON</head>
-                            <p>Exportation du mois de juin 1905</p>
+                            <p>Exportation du mois de juin 1907</p>
                             <table cols="2" xml:id="deg-ta-cotn01">
                                 <row role="label">
                                     <cell/>
@@ -5865,7 +5865,7 @@
                         practically completed in May. The principal items of import were ns follows.
                         The first figures represent the total value in £ sterling and the second
                         figures represent the im-ren.se or decrease in £ sterling over the figures
-                        for 1905. Petroleum 1,991, + *40. Direct importation from .lava Flour
+                        for 1907. Petroleum 1,991, + *40. Direct importation from .lava Flour
                         13,655,—3,243 more was grown in the Sudan Rice 5,235, — 1,287.. Dhurra und
                         maize 1,760, — 18,047. Liquors 4,554, — 4,435. Reduced number of Europeans
                         Sugar 16,775, -f 7,946. Forwarded to Khartoum » Timber 7,906 -f 4,341. Coal
@@ -5877,7 +5877,7 @@
                         through tho customs. Tobacco and cigarettes 3,377 — 4,918. The exports
                         during the year 1906 were as follows. The first figures represent the total
                         value in £ Sterling and the sooond figures represent the increase or
-                        decrease in £ Sterling over'the figure for 1905 :— Ghee, 4,498 — 4,300.
+                        decrease in £ Sterling over'the figure for 1907 :— Ghee, 4,498 — 4,300.
                         Cattle plague in Kossala. Skins, 3,375 — 1,264. Cnttlo plague in Kassala.
                         Cattle, 1,521. Sheep, 603 — 11,470 Cattle plague in Kassala. Gum, 44,575 +
                         41,091 Rod Sea Railway working. Cotton, unginned, 22,336. Local gin
@@ -6545,7 +6545,7 @@
                             <row>
                                 <cell cols="2">Contre Tonnes</cell>
                                 <cell><measure unit="ton">2,647,160</measure></cell>
-                                <cell>pour 1905</cell>
+                                <cell>pour 1907</cell>
                             </row>
                             <row>
                                 <cell cols="2">""</cell>
